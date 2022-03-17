@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Jef-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jef-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jef-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Jef-pic" height="150" style="border-radius:50px;"src="https://i.picasion.com/pic92/76bd05f4be8408967ab844c0ff6a6080.gif">
+  <img align="right" alt="Jef-pic" height="200" style="border-radius:50px;"src="https://i.picasion.com/pic92/76bd05f4be8408967ab844c0ff6a6080.gif">
 </div>
   
   ###
