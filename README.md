@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**kjeehcs/kjeehcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary> <b> Sobre mim. </b> <i>(só expandir a setinha!)</i> </summary><br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🔭 Atualmente trabalhando com SQL.
+ - 🌱 Pretendo me especializar em C# .NET.
+   
+<p align="center">  
+  <a href="https://github.com/devfraga/github-readme-stats">
+    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=kjeehcs&theme=onedark">
+  </a>
+  <a href="https://github.com/devfraga/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kjeehcs&theme=onedark">
+  </a>
+</p>
+</details>
