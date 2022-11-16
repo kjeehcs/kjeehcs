@@ -1,7 +1,7 @@
 ### Olá 👋
 
 <details>
-  <summary> <b> Sobre mim. </b> <i>(só expandir a setinha!)</i> </summary><br>
+  <summary> <b> Sobre mim. </summary><br>
 
  - 🔭 Atualmente trabalhando com SQL.
  - 🌱 Pretendo me especializar em C# .NET.
