@@ -4,7 +4,7 @@
   <summary> <b> Sobre mim. </summary><br>
 
  - 🔭 Atualmente trabalhando com SQL.
- - 🌱 Atualmente buscando ser um programador JR.
+ - 🌱 Buscando ser um programador JR.
    
 <p align="center">  
   <a href="https://github.com/devfraga/github-readme-stats">
