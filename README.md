@@ -1,10 +1,9 @@
 ### Olá 👋
-
+<!---
 <details>
   <summary> <b> Sobre mim. </summary><br>
 
- - 🔭 Atualmente trabalhando com SQL.
- - 🌱 Buscando ser um programador JR.
+ 
    
 <p align="center">  
   <a href="https://github.com/devfraga/github-readme-stats">
@@ -15,3 +14,4 @@
   </a>
 </p>
 </details>
+--->
