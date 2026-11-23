@@ -1,13 +1,7 @@
-<!--
-  RASCUNHO — README do perfil (repositório kjeehcs/kjeehcs).
-  Comentários como este não aparecem no GitHub. Procure por "TODO" e ajuste antes de publicar.
--->
-
 # Olá, eu sou o Jeferson 👋
 
 Analista de sistemas em Iracemápolis - SP. Comecei no **ERP JD Edwards** com **Oracle e SQL** e hoje
 desenvolvo aplicações **full stack em TypeScript** (React no front, Node.js no back).
-<!-- TODO: se quiser, cite a empresa e a área, por exemplo "sistemas de logística e frete na [empresa]". -->
 
 Do ERP eu trouxe o olhar de negócio e de dados: entender o processo antes do código, modelar bem o banco e
 testar o que importa.
@@ -24,7 +18,6 @@ testar o que importa.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-<!-- TODO: tire o que você não domina e acrescente o que falta (Python? PostgreSQL? Docker?). -->
 
 **ERP:** JD Edwards EnterpriseOne
 
@@ -38,4 +31,3 @@ testar o que importa.
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/kjeehcs)
-<!-- TODO: se quiser receber contato de recrutadores, coloque um e-mail pessoal (não o corporativo). -->
